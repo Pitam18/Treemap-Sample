@@ -1,0 +1,477 @@
+*
+{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+#fir
+{
+    width: 500px;
+	height: 700px;
+	color: white;
+	background-color: black;
+	float: left;
+}
+#sec
+{
+	width: 300px;
+	height: 500px;
+	color: white;
+	background-color: blue;
+	float: left;
+
+}
+#three
+{
+	width: 600px;
+	height: 300px;
+	color: white;
+	background-color: green;
+	float: left;
+}
+#four
+{
+	width: 600px
+	height: 200px;
+	color: white;
+	background-color: yellow;
+	float: left;
+}
+#four
+{
+	width: 600px;
+	height: 200px;
+	color: white;
+	background-color:red;
+	float: left;
+}
+#five
+{
+	width: 300px;
+	height: 200px;
+	color: white;
+	background-color: orange;
+	float: left;
+}
+#six
+{
+	width: 300px;
+	height: 200px;
+	color: white;
+	background-color: skyblue;
+	float: left;
+}
+#seven
+{
+	width: 300px;
+	height: 200px;
+	color: white;
+	background-color: peru;
+	float: left;
+}
+#a 
+{
+	width: 500px;
+	height: 300px;
+	color: white;
+	background-color: peru;
+	float: left;
+	display: none;
+ 
+}
+#b
+{
+	width: 500px;
+	height: 300px;
+	color: white;
+	background-color: black;
+	float: left;
+	display: none;
+}
+#c 
+{
+	width: 500px;
+	height: 300px;
+	color: white;
+	background-color: red;
+	float: left;
+	display: none;
+}
+#d
+{
+	width: 500px;
+	height: 300px;
+	color: white;
+	background-color: blueviolet;
+	float: left;
+	display: none;
+}
+#e
+{
+	width: 500px;
+	height: 300px;
+	color: white;
+	background-color: orange;
+	float: left;
+	display: none;
+}
+#f
+{
+	width: 500px;
+	height: 300px;
+	color: white;
+	background-color: darkviolet;
+	float: left;
+	display: none;
+}
+#g
+{
+	width: 400px;
+	height: 300px;
+	color: white;
+	background-color: black;
+	float: left;
+	display: none;
+}
+
+#h
+{
+	width: 400px;
+	height: 300px;
+	color: white;
+	background-color: blue;
+	float: left;
+	display: none;
+}
+
+#i
+{
+	width: 400px;
+	height: 300px;
+	color: white;
+	background-color: blueviolet;
+	float: left;
+	display: none;
+}
+
+#j
+{
+	width: 400px;
+	height: 300px;
+	color: white;
+	background-color: rosybrown;
+	float: left;
+	display: none;
+}
+
+#k
+{
+	width: 400px;
+	height: 300px;
+	color: white;
+	background-color: green;
+	float: left;
+	display: none;
+}
+
+#l
+{
+	width: 200px;
+	height: 300px;
+	color: white;
+	background-color: rebeccapurple;
+	float: left;
+	display: none;
+}
+
+#m
+{
+	width: 200px;
+	height: 300px;
+	color: white;
+	background-color: darkviolet;
+	float: left;
+	display: none;
+}
+
+#n
+{
+	width: 200px;
+	height: 300px;
+	color: white;
+	background-color: yellowgreen;
+	float: left;
+	display: none;
+}
+
+#o
+{
+	width: 200px;
+	height: 300px;
+	color: white;
+	background-color: cyan;
+	float: left;
+	display: none;
+}
+
+#p
+{
+	width: 200px;
+	height: 300px;
+	color: white;
+	background-color: saddlebrown;
+	float: left;
+	display: none;
+}
+
+#q
+{
+	width: 300px;
+	height: 300px;
+	color: white;
+	background-color: darkviolet;
+	float: left;
+	display: none;
+}
+
+#r
+{
+	width: 300px;
+	height: 200px;
+	color: white;
+	background-color: saddlebrown;
+	float: left;
+	display: none;
+}
+
+#s
+{
+	width: 300px;
+	height: 200px;
+	color: white;
+	background-color: paleturquoise;
+	float: left;
+	display: none;
+}
+
+#t
+{
+	width: 300px;
+	height: 200px;
+	color: white;
+	background-color: darkviolet;
+	float: left;
+	display: none;
+}
+
+#u
+{
+	width: 300px;
+	height: 200px;
+	color: white;
+	background-color: orange;
+	float: left;
+	display: none;
+}
+
+#v
+{
+	width: 200px;
+	height: 150px;
+	color: white;
+	background-color: black;
+	float: left;
+	display: none;
+}
+
+#w
+{
+	width: 200px;
+	height: 300px;
+	color: white;
+	background-color: orange;
+	float: left;
+	display: none;
+}
+
+#x
+{
+	width: 200px;
+	height: 300px;
+	color: white;
+	background-color: pink;
+	float: left;
+	display: none;
+}
+
+#y
+{
+	width: 200px;
+	height: 150px;
+	color: white;
+	background-color: darkviolet;
+	float: left;
+	display: none;
+}
+
+#z
+{
+	width: 300px;
+	height: 150px;
+	color: white;
+	background-color: skyblue;
+	float: left;
+	display: none;
+}
+
+#aa
+{
+	width: 400px;
+	height: 150px;
+	color: white;
+	background-color: darkviolet;
+	float: left;
+	display: none;
+}
+
+#bb
+{
+	width: 350px;
+	height: 200px;
+	color: white;
+	background-color: yellow;
+	float: left;
+	display: none;
+}
+
+#cc
+{
+	width: 400px;
+	height: 200px;
+	color: white;
+	background-color: darkviolet;
+	float: left;
+	display: none;
+}
+
+#dd
+{
+	width: 400px;
+	height: 200px;
+	color: white;
+	background-color: red;
+	float: left;
+	display: none;
+}
+
+#ee
+{
+	width: 400px;
+	height: 200px;
+	color: white;
+	background-color: turquoise;
+	float: left;
+	display: none;
+}
+
+#ff
+{
+	width: 300px;
+	height: 200px;
+	color: white;
+	background-color: darkviolet;
+	float: left;
+	display: none;
+}
+
+#gg
+{
+	width: 300px;
+	height: 200px;
+	color: white;
+	background-color: yellow;
+	float: left;
+	display: none;
+}
+
+#hh
+{
+	width: 300px;
+	height: 200px;
+	color: white;
+	background-color: blue;
+	float: left;
+	display: none;
+}
+
+
+#ii
+{
+	width: 300px;
+	height: 200px;
+	color: white;
+	background-color: darkviolet;
+	float: left;
+	display: none;
+}
+
+#jj
+{
+	width: 300px;
+	height: 200px;
+	color: white;
+	background-color: burlywood;
+	float: left;
+	display: none;
+}
+
+#kk
+{
+	width: 200px;
+	height: 150px;
+	color: white;
+	background-color: darkviolet;
+	float: left;
+	display: none;
+}
+
+#ll
+{
+	width: 200px;
+	height: 150px;
+	color: white;
+	background-color: orange;
+	float: left;
+	display: none;
+}
+
+#mm
+{
+	width: 200px;
+	height: 150px;
+	color: white;
+	background-color: lightyellow;
+	float: left;
+	display: none;
+}
+
+#nn
+{
+	width: 200px;
+	height: 150px;
+	color: white;
+	background-color: orange;
+	float: left;
+	display: none;
+}
+#oo
+{
+	width: 200px;
+	height: 150px;
+	color: white;
+	background-color: palevioletred;
+	float: left;
+	display: none;
+}
+
+
